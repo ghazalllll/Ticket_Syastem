@@ -1,0 +1,8 @@
+C:\Users\asus\source\repos\Ticket_System\Ticket_System\obj\Debug\net8.0\Ticket_System.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Ticket_System\Ticket_System\obj\Debug\net8.0\Ticket_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Ticket_System\Ticket_System\obj\Debug\net8.0\Ticket_System.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Ticket_System\Ticket_System\obj\Debug\net8.0\Ticket_System.AssemblyInfo.cs
+C:\Users\asus\source\repos\Ticket_System\Ticket_System\obj\Debug\net8.0\Ticket_System.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Ticket_System\Ticket_System\obj\Debug\net8.0\Ticket_System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asus\source\repos\Ticket_System\Ticket_System\obj\Debug\net8.0\Ticket_System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\source\repos\Ticket_System\Ticket_System\obj\Debug\net8.0\Ticket_System.sourcelink.json

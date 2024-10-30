@@ -1,6 +1,10 @@
-﻿namespace Ticket_System.Models
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace Ticket_System.Models
 {
-    public class User
+    public class User : IdentityUser
     {
+        
+
     }
 }
